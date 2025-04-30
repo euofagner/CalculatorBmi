@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace BmiCalcualtor
+namespace BMICalculator
 {
     public class Program
     {

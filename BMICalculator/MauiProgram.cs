@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace BmiCalcualtor
+namespace BMICalculator
 {
     public static class MauiProgram
     {

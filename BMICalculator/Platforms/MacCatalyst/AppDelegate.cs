@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace BmiCalcualtor
+namespace BMICalculator
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

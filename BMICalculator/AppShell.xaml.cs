@@ -1,4 +1,4 @@
-﻿namespace BmiCalcualtor
+﻿namespace BMICalculator
 {
     public partial class AppShell : Shell
     {
